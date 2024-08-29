@@ -1,0 +1,23 @@
+Simple DOS Batch script to backup files from the C drive for a user to an 
+external drive.
+
+Uses ASCII codes for screen colours.
+
+User can select the backup drive and data folder.  Script then creates a new
+sub-folder with the system date and then another sub-folder with the time 
+to allow for multiple backups in one day.
+
+No encryption or compression for the files/folders.
+
+Runs in WIN10, but not tested on any other version of Windows.
+
+User defined variables all start with _z
+
+
+--------------------------------------------------------------------------------
+
+Version:
+
+2024-04-02 - Initial version (TPT)
+
+--------------------------------------------------------------------------------
