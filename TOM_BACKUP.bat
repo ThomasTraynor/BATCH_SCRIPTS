@@ -123,7 +123,6 @@ ECHO.
 
 xcopy %_zORDR% %_zBKDR%\D%_zuDATE%\T%_zuTIME% /c /f /i /s /e /h /y
 
-ECHO INSERT XCOPY CODE HERE
 ECHO.
 ECHO %_zCRTXT1%================================================================================%_zRESET%
 ECHO.
